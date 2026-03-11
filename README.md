@@ -64,4 +64,15 @@ The djembe is a mechanical system where the arm acts as a pendulum and the hand 
 
 ### [ 4 ] Djole (4/4 - Mask Dance)
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | - | B | - | T | T | S | - | B | - | B | - | T | T | S | - |
+
+---
+
+## 5. REPOSITORY NOTES
+* **Portability:** This document uses GFM (GitHub Flavored Markdown) tables to ensure alignment across devices.
+* **Subdivisions:** Common time uses 4 slots per beat; Triplet time uses 3.
+* **Instructional Design:** Syllables (Gun, Go, Pa) should be vocalized during practice to sync the motor skills/actions with the rhythm.
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: |**
