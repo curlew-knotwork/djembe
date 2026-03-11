@@ -18,7 +18,7 @@
 
 ## 1. TECHNICAL SPECIFICATION: SOUND & PHYSICS
 **Instructor's Context:** Every sound is a result of kinetic energy transfer. 
-* **Bass:** Think of the drum as a trampoline; your hand must bounce off the center. 
+* **Bass:** Think of the drum as a trampoline; your hand must bounce off the center. l
 * **Tone:** The rim of the drum acts as a fulcrum; hit with the pads of your fingers while keeping the palm elevated. 
 * **Slap:** The most difficult sound. Relax your fingers to allow the tips to "snap" against the skin like a whip.
 
