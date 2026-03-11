@@ -1,5 +1,5 @@
 # Djembe Technical Specification & Workshop Notes
-**Version:** 1.3  
+**Version:** 1.4  
 **Standard:** Unified Physical & Oral Notation (UPON)  
 **Persona:** Physically-Grounded Rationalist
 
@@ -24,21 +24,20 @@ The djembe is a mechanical system where the arm acts as a pendulum and the hand 
 
 ---
 
-## 3. UNIFIED NOTATION GRIDS
+## 3. THE UNIVERSAL BREAK (COMMAND SIGNAL)
+This is the standard signal used to start or stop a rhythm. It occupies two measures of 4/4.
 
-### A. 4/4 Common Time (16th-Note Subdivisions)
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | B | - | T | T | S | - | S | - | B | - | T | T | S | - | S | - |
-| **Oral** | GUN | - | GO | DO | PA | - | TA | - | GUN | - | GO | DO | PA | - | TA | - |
+| **Sound** | S | S | S | - | S | S | S | - | S | S | S | - | S | - | S | - |
+| **Oral** | PA | TA | PA | - | TA | PA | TA | - | PA | TA | PA | - | TA | - | PA | - |
 
-### B. Vertical Zone Staff (Surface Mapping)
-| Zone | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Slap (S)** | - | - | - | - | S | - | S | - | - | - | - | - | S | - | S | - |
-| **Tone (T)** | - | - | T | T | - | - | - | - | - | - | T | T | - | - | - | - |
-| **Bass (B)** | B | - | - | - | - | - | - | - | B | - | - | - | - | - | - | - |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | S | - | S | - | B | - | B | - | S | - | - | - | - | - | - | - |
+| **Oral** | TA | - | PA | - | GUN | - | DUN | - | PA | - | - | - | - | - | - | - |
 
 ---
 
@@ -72,6 +71,6 @@ The djembe is a mechanical system where the arm acts as a pendulum and the hand 
 ---
 
 ## 5. REPOSITORY NOTES
-* **Portability:** This document uses GFM (GitHub Flavored Markdown) tables to ensure alignment across devices.
-* **Instructional Design:** Syllables (Gun, Go, Pa) should be vocalized during practice to sync hand motor skills/actions with the rhythm.
-* **Formatting Rule:** Ensure a blank line exists between tables and any following text to prevent rendering errors.
+* **Portability:** This document uses GFM tables in its markdown, for multi-device alignment.
+* **Instructional Design:** Syllables should be vocalized during practice to sync the motor cortex (hand motor skills) with the rythym.
+* **Formatting Rule:** Ensure a blank line exists between tables and text to prevent rendering errors.
