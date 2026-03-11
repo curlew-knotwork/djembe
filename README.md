@@ -2,10 +2,8 @@
 Some notes about playing Djembe drum, tablature, etc.
 
 # 1. DJEMBE TECHNICAL NOTATION & PHONETIC SPECIFICATION
-====================================================================
 VERSION: 1.0 (Unified Physical & Oral Notation)
 TIMING: 4/4 Common Time (16th-Note Subdivisions)
-====================================================================
 
 [ I. SOUND DEFINITION & PHYSICS ]
 --------------------------------------------------------------------
