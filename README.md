@@ -1,5 +1,5 @@
 # Djembe Technical Specification & Workshop Notes
-**Version:** 1.2  
+**Version:** 1.3  
 **Standard:** Unified Physical & Oral Notation (UPON)  
 **Persona:** Physically-Grounded Rationalist
 
@@ -67,12 +67,11 @@ The djembe is a mechanical system where the arm acts as a pendulum and the hand 
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
 | **Sound** | B | - | B | - | T | T | S | - | B | - | B | - | T | T | S | - |
+| **Oral** | GUN | - | DUN | - | GO | DO | PA | - | GUN | - | DUN | - | GO | DO | PA | - |
 
 ---
 
 ## 5. REPOSITORY NOTES
 * **Portability:** This document uses GFM (GitHub Flavored Markdown) tables to ensure alignment across devices.
-* **Subdivisions:** Common time uses 4 slots per beat; Triplet time uses 3.
-* **Instructional Design:** Syllables (Gun, Go, Pa) should be vocalized during practice to sync the motor skills/actions with the rhythm.
-| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: |**
+* **Instructional Design:** Syllables (Gun, Go, Pa) should be vocalized during practice to sync the motor cortex with the rhythm.
+* **Formatting Rule:** Ensure a blank line exists between tables and any following text to prevent rendering errors.
