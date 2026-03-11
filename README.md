@@ -1,7 +1,6 @@
 # Djembe: Notes on playing
 **Version:** 2.7  
 **Standard:** Unified Physical & Oral Notation (UPON)  
-**Persona:** Physically-Grounded Rationalist
 
 ---
 
