@@ -1,6 +1,7 @@
 # Djembe: Notes on playing
-**Version:** 2.2  
-**Standard:** Unified Physical & Oral Notation (UPON)
+**Version:** 2.7  
+**Standard:** Unified Physical & Oral Notation (UPON)  
+**Persona:** Physically-Grounded Rationalist
 
 ---
 
@@ -21,20 +22,20 @@
 
 | Type | Code | Phonetic (R/L) | Physical Action |
 | :--- | :---: | :--- | :--- |
-| **Bass** | **B** | GUN / DUN | **Center Strike:** Flat palm, fingers together. Immediate rebound to allow air resonance. |
-| **Tone** | **T** | GO / DO | **Edge Strike:** Pads of fingers closed. Palm remains elevated above the rim. |
-| **Slap** | **S** | PA / TA | **Edge Strike:** Fingers relaxed. Fingertips "whip" the skin for a high-frequency crack. |
-| **Flam** | **Pla**| **PLA** (Both) | **Double Edge Strike:** Both hands hit almost simultaneously (flammed) for maximum volume. |
-| **Rest** | **-** | (Silence) | **Ghost Note:** Hand moves in air to maintain the pendulum and internal clock. |
+| **Bass** | **B** | GUN / DUN | **Center Strike:** Flat palm, fingers together. Immediate rebound. |
+| **Tone** | **T** | GO / DO | **Edge Strike:** Pads of fingers closed. Palm off the rim. |
+| **Slap** | **S** | PA / TA | **Edge Strike:** Fingers relaxed. Fingertips "whip" the skin. |
+| **Flam** | **Pla**| **PLA** (Both) | **Double Edge Strike:** Both hands hit together/flammed for volume. |
+| **Rest** | **-** | (Silence) | **Ghost Note:** Hand moves in air to maintain the pendulum. |
 
 ---
 
 ## 2. SEQUENCE-OF-OPERATIONS
-**Instructor's Context:** In West African percussion, timing is a physical cycle. If you stop your hands during a rest, you break the "engine" of the rhythm.
+**Instructor's Context:** Timing is a physical cycle. If you stop your hands during a rest, you break the "engine" of the rhythm.
 
 1. **The Pendulum Rule:** Maintain a continuous alternating stroke (R-L-R-L). 
 2. **Lead-Hand Anchor:** In 4/4, the Right Hand (R) anchors downbeats (1, 2, 3, 4) and upbeats (&). 
-3. **Rebound Physics:** Never "press" into the skin. Every strike is an up-stroke to avoid muffling the resonance.
+3. **Rebound Physics:** Never "press" into the skin. Every strike is an up-stroke.
 
 ---
 
@@ -42,7 +43,7 @@
 **Instructor's Context:** Breaks are the "API" of the ensemble. They initialize a rhythm, synchronize tempo shifts, or execute a hard stop.
 
 ### [ A ] The Universal Break (Standard Signal)
-**Instructor's Note:** The first measure builds tension with three slaps; the second measure resolves with two bass notes and a final slap that signals the start of the beat.
+**Instructor's Note:** The first measure builds tension with three slaps; the second measure resolves with two bass notes and a final slap.
 
 | Measure 1 | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -55,16 +56,15 @@
 | **Sound** | S | - | S | - | B | - | B | - | S | - | - | - | - | - | - | - |
 
 ### [ B ] The Bridge Signal (Lumen/Bridge Variation)
-**Instructor's Note:** Signals a transition to a "Chauffé" (high energy). The 32nd-note "TAPA" roll requires a smaller range of motion (reduced hand height).
+**Instructor's Note:** Signals a transition to a "Chauffé" (high energy). The 32nd-note "TAPA" roll requires a smaller range of motion.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | l | r | l | **R** | l | r | l |
 | **Sound** | S | S | S | S | - | - | - | - | T | T | T | T | T | T | T | T |
-| **Oral** | PA | TA | PA | TA | - | - | - | - | TA | PA | TA | PA | TA | PA | TA | PA |
 
 ### [ C ] The Ensemble Stop (The "Pla" Break)
-**Instructor's Note:** This break uses the **Flam/Both-hand hit** to signal a hard stop. It is the physical "exclamation point" at the end of a performance.
+**Instructor's Note:** This break uses the **Flam/Both-hand hit** to signal a hard stop.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -76,7 +76,7 @@
 ## 4. REPERTOIRE: CORE PATTERNS
 
 ### [ 1 ] Kuku (4/4 - Celebratory)
-**Instructor's Note:** Focus on the "syncopated heartbeat." The two bass notes (B B) on beat 3 must feel grounded to support the dancers' footfalls.
+**Instructor's Note:** Focus on the "syncopated heartbeat." The two bass notes (B B) on beat 3 must feel grounded.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -84,7 +84,7 @@
 | **Sound** | B | - | S | - | B | - | S | - | B | B | T | T | S | - | S | - |
 
 ### [ 2 ] Djole (4/4 - Mask Dance)
-**Instructor's Note:** This rhythm is about the "space between the notes." It has a relaxed, swinging feel. The Bass-Rest-Bass (B - B) creates the drive.
+**Instructor's Note:** This rhythm is about the "space between the notes." It has a relaxed, swinging feel.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -92,10 +92,10 @@
 | **Sound** | B | - | B | - | T | T | S | - | B | - | B | - | T | T | S | - |
 
 ### [ 3 ] Kassa (4/4 - Agricultural)
-**Instructor's Note:** This is the "Gallop." The Tone-Tone-Slap (T T S) mimics the repetitive motion of hoeing. Maintain relentless consistency.
+**Instructor's Note:** The "Gallop." The Tone-Tone-Slap (T T S) sequence mimics the repetitive motion of hoeing.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: | :---: | : : : | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
 | **Sound** | T | T | S | - | T | T | S | - | B | - | B | - | T | T | S | - |
 
@@ -104,28 +104,4 @@
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | B | - | T | T | S | - | - | - | B | - | T | T | S | - | - | - |
-
-### [ 5 ] Soli (12/8 - Rites of Passage)
-**Instructor's Note:** Regally paced triplet feel ($4 \times 3$). Feel the "rolling" of the triplets rather than counting 1-2-3-4.
-
-| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
-| **Sound** | B | - | - | T | - | T | S | - | S | T | - | T |
-
-### [ 6 ] Tiriba (6/8 - Binary Triplet Feel)
-**Instructor's Note:** High-energy $2 \times 3$ pulse. Master the hand-speed required for the quick Tone-Slap transitions within the triplet grouping.
-
-| Pulse | 1 | . | . | 2 | . | . |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | R | **L** | R | L |
-| **Sound** | B | - | T | S | - | S |
-
----
-
-## 5. REPOSITORY NOTES
-* **Portability:** This document uses GFM tables for multi-device alignment.
-* **Instructional Design:** Syllables (Gun, Go, Pa, Pla) should be vocalized to sync the motor cortex with the physical strike.
-* **Formatting Rule:** Ensure a blank line exists between tables and text to prevent rendering errors.
+| **Hand** | **R** | L | **R** | L | **R** | L | **R
