@@ -104,3 +104,26 @@
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Hand** | **R** | L | **R** | L | **R** | L | **R
+
+### [ 5 ] Soli (12/8 - Rites of Passage)
+**Instructor's Note:** Regally paced triplet feel ($4 \times 3$). Feel the "rolling" of the triplets.
+
+| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
+| **Sound** | B | - | - | T | - | T | S | - | S | T | - | T |
+
+### [ 6 ] Tiriba (6/8 - Binary Triplet Feel)
+**Instructor's Note:** High-energy. Master the Tone-Slap transitions within the triplet grouping. Note the 12-slot mapping for consistent hand alternating.
+
+| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
+| **Sound** | B | - | T | S | - | S | B | - | T | S | - | S |
+
+---
+
+## 5. REPOSITORY NOTES
+* **Portability:** This document uses GFM tables for multi-device alignment.
+* **Instructional Design:** Syllables (Gun, Go, Pa, Pla) should be vocalized to sync the motor cortex with the physical strike.
+* **Formatting Rule:** Ensure a blank line exists between tables and text to prevent rendering errors.
