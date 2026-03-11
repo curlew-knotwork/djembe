@@ -1,8 +1,8 @@
 # Djembe Technical Specification & Repertoire
-# ====================================================================
+# ============================================
 # VERSION: 1.1 (GitHub Portable Edition)
 # FOCUS: Physical Mechanics, Phonetics, and Standard Patterns
-# ====================================================================
+# ============================================
 
 ## 1. TECHNICAL NOTATION & PHONETIC SPECIFICATION
 **Timing:** 4/4 Common Time (16th-Note Subdivisions)
