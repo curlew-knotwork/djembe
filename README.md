@@ -73,5 +73,5 @@ The djembe is a mechanical system where the arm acts as a pendulum and the hand 
 
 ## 5. REPOSITORY NOTES
 * **Portability:** This document uses GFM (GitHub Flavored Markdown) tables to ensure alignment across devices.
-* **Instructional Design:** Syllables (Gun, Go, Pa) should be vocalized during practice to sync the motor cortex with the rhythm.
+* **Instructional Design:** Syllables (Gun, Go, Pa) should be vocalized during practice to sync hand motor skills/actions with the rhythm.
 * **Formatting Rule:** Ensure a blank line exists between tables and any following text to prevent rendering errors.
