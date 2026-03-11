@@ -1,5 +1,5 @@
 # Djembe: Notes on playing
-**Version:** 3.2  
+**Version:** 3.2 (Draft)
 **Standard:** Unified Physical & Oral Notation (UPON)  
 **Persona:** Physically-Grounded Rationalist / Master's Critique
 
