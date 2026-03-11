@@ -1,5 +1,5 @@
 # Djembe: Notes on playing
-**Version:** 2.7  
+**Version:** 2.9  
 **Standard:** Unified Physical & Oral Notation (UPON)  
 
 ---
@@ -30,7 +30,7 @@
 ---
 
 ## 2. SEQUENCE-OF-OPERATIONS
-**Instructor's Context:** Timing is a physical cycle. If you stop your hands during a rest, you break the "engine" of the rhythm.
+**Instructor's Context:** In West African percussion, timing is a physical cycle. If you stop your hands during a rest, you break the "engine" of the rhythm.
 
 1. **The Pendulum Rule:** Maintain a continuous alternating stroke (R-L-R-L). 
 2. **Lead-Hand Anchor:** In 4/4, the Right Hand (R) anchors downbeats (1, 2, 3, 4) and upbeats (&). 
@@ -103,7 +103,8 @@
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | - | T | T | S | - | - | - | B | - | T | T | S | - | - | - |
 
 ### [ 5 ] Soli (12/8 - Rites of Passage)
 **Instructor's Note:** Regally paced triplet feel ($4 \times 3$). Feel the "rolling" of the triplets.
@@ -123,7 +124,28 @@
 
 ---
 
-## 5. REPOSITORY NOTES
+## 5. INTERMEDIATE PATTERNS
+**Instructor's Context:** Mastery of intermediate patterns requires navigating "polymetric tension" and interlocking syncopation. These rhythms act as gatekeepers to professional-level ensemble playing.
+
+### [ 1 ] Sinte (4/4 - Gatekeeper Syncopation)
+**Instructor's Note:** From the Nalu people. This rhythm introduces high-density slap sequences and requires precision in the "PA-TA-PA" response.
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | S | S | S | - | S | S | S | - | B | - | T | T | B | - | T | T |
+
+### [ 2 ] Yankadi (12/8 - Seductive Swing)
+**Instructor's Note:** A slow Susu rhythm. It teaches "Heavy" timing—placing notes slightly behind the beat to achieve a deep, seductive groove.
+
+| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
+| **Sound** | B | - | T | S | - | - | B | - | T | S | - | - |
+
+---
+
+## 6. REPOSITORY NOTES
 * **Portability:** This document uses GFM tables for multi-device alignment.
 * **Instructional Design:** Syllables (Gun, Go, Pa, Pla) should be vocalized to sync the motor cortex with the physical strike.
 * **Formatting Rule:** Ensure a blank line exists between tables and text to prevent rendering errors.
