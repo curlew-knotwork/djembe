@@ -1,4 +1,4 @@
-# Djembe Technical Specification & Workshop Notes
+# Djembe: Notes on playing
 **Version:** 1.4  
 **Standard:** Unified Physical & Oral Notation (UPON)  
 **Persona:** Physically-Grounded Rationalist
@@ -6,7 +6,7 @@
 ---
 
 ## 1. TECHNICAL SPECIFICATION: SOUND & PHYSICS
-The djembe is a mechanical system where the arm acts as a pendulum and the hand acts as an actuator. Proper sound production requires strict adherence to rebound physics.
+The djembe drum is a mechanical system where the arm acts as a pendulum and the hand acts as an actuator. Proper sound production requires strict adherence to rebound physics.
 
 | Type | Code | Phonetic (R/L) | Physical Action |
 | :--- | :---: | :--- | :--- |
