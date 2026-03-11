@@ -1,12 +1,22 @@
 # Djembe: Notes on playing
-**Version:** 1.4  
+**Version:** 1.7  
 **Standard:** Unified Physical & Oral Notation (UPON)  
 **Persona:** Physically-Grounded Rationalist
 
 ---
 
+## 0. STUDENT ROADMAP: THE "CORE FIVE"
+**Instructor's Context:** To reach "Session Readiness," a student should master these components in order:
+1.  **The Universal Break [A]:** Your "Start/Stop" command.
+2.  **Kuku:** Foundation for 4/4 timing and "heartbeat" bass notes.
+3.  **Djole:** Teaches syncopation and "swing" in a square 4/4 context.
+4.  **Kassa:** Introduces the "gallop" and consistent tone-slap transitions.
+5.  **Soli:** The gateway to 12/8 triplet feel and rite-of-passage rhythms.
+
+---
+
 ## 1. TECHNICAL SPECIFICATION: SOUND & PHYSICS
-The djembe drum is a mechanical system where the arm acts as a pendulum and the hand acts as an actuator. Proper sound production requires strict adherence to rebound physics.
+**Instructor's Context:** The djembe is an "open-bottom" membranophone. The quality of sound is determined by how the hand interacts with the air column inside the shell. A "dead" stroke (leaving the hand on the skin) kills the resonance; a "live" stroke (rebound) allows the drum to speak.
 
 | Type | Code | Phonetic (R/L) | Physical Action |
 | :--- | :---: | :--- | :--- |
@@ -18,59 +28,19 @@ The djembe drum is a mechanical system where the arm acts as a pendulum and the 
 ---
 
 ## 2. SEQUENCE-OF-OPERATIONS
+**Instructor's Context:** In West African percussion, timing is a physical cycle, not just a mental count. If you stop your hands during a rest, you break the "engine" of the rhythm.
+
 1. **The Pendulum Rule:** Maintain a continuous alternating stroke (R-L-R-L). 
 2. **Lead-Hand Anchor:** In 4/4, the Right Hand (R) anchors downbeats (1, 2, 3, 4) and upbeats (&). 
 3. **Rebound Physics:** Never "press" into the skin. Every strike is an up-stroke to avoid muffling the drum's resonance.
 
 ---
 
-## 3. THE UNIVERSAL BREAK (COMMAND SIGNAL)
-This is the standard signal used to start or stop a rhythm. It occupies two measures of 4/4.
+## 3. THE COMMAND SIGNALS (BREAKS)
+**Instructor's Context:** Breaks are the "API" of the ensemble. They are used to initialize a rhythm, synchronize tempo shifts, or execute a hard stop.
+
+### [ A ] The Universal Break (Standard Signal)
+The standard "Ready-Set-Go" for ensemble synchronization. Master this first.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | S | S | S | - | S | S | S | - | S | S | S | - | S | - | S | - |
-| **Oral** | PA | TA | PA | - | TA | PA | TA | - | PA | TA | PA | - | TA | - | PA | - |
-
-| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | S | - | S | - | B | - | B | - | S | - | - | - | - | - | - | - |
-| **Oral** | TA | - | PA | - | GUN | - | DUN | - | PA | - | - | - | - | - | - | - |
-
----
-
-## 4. REPERTOIRE: COMMON PATTERNS
-
-### [ 1 ] Kuku (4/4 - Celebratory)
-| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | B | - | S | - | B | - | S | - | B | B | T | T | S | - | S | - |
-
-### [ 2 ] Moribayassa (4/4 - Vow Fulfillment)
-| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | B | - | T | T | S | - | - | - | B | - | T | T | S | - | - | - |
-
-### [ 3 ] Soli (12/8 - Rites of Passage)
-| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
-| **Sound** | B | - | - | T | - | T | S | - | S | T | - | T |
-
-### [ 4 ] Djole (4/4 - Mask Dance)
-| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
-| **Sound** | B | - | B | - | T | T | S | - | B | - | B | - | T | T | S | - |
-| **Oral** | GUN | - | DUN | - | GO | DO | PA | - | GUN | - | DUN | - | GO | DO | PA | - |
-
----
-
-## 5. REPOSITORY NOTES
-* **Portability:** This document uses GFM tables in its markdown, for multi-device alignment.
-* **Instructional Design:** Syllables should be vocalized during practice to sync the motor cortex (hand motor skills) with the rythym.
-* **Formatting Rule:** Ensure a blank line exists between tables and text to prevent rendering errors.
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
