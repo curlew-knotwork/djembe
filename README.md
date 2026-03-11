@@ -77,4 +77,86 @@
 
 ---
 
-## 4. REPER
+## 4. REPERTOIRE: CORE PATTERNS
+
+### [ 1 ] Kuku (4/4 - Celebratory)
+**Master's Wisdom:** The "B B" on beat 3 is the feet hitting the sand. Make it heavy and grounded.
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | - | S | - | B | - | S | - | B | B | T | T | S | - | S | - |
+| **Oral** | GUN | - | PA | - | DUN | - | TA | - | GUN | DUN | GO | DO | PA | - | TA | - |
+
+### [ 2 ] Djole (4/4 - Mask Dance)
+**Master's Wisdom:** This rhythm "leans" backward. Do not rush the tones; let the syncopation breathe.
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | - | B | - | T | T | S | - | B | - | B | - | T | T | S | - |
+| **Oral** | GUN | - | DUN | - | GO | DO | PA | - | GUN | - | DUN | - | GO | DO | PA | - |
+
+### [ 3 ] Kassa (4/4 - Agricultural)
+**Master's Wisdom:** The "Gallop." Relentless consistency is required.
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | T | T | S | - | T | T | S | - | B | - | B | - | T | T | S | - |
+| **Oral** | GO | DO | PA | - | GO | DO | PA | - | GUN | - | DUN | - | GO | DO | PA | - |
+
+### [ 4 ] Moribayassa (4/4 - Vow Fulfillment)
+**Master's Wisdom:** High-speed skipping rhythm. Let the fingers create the circular momentum.
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | - | T | T | S | - | - | - | B | - | T | T | S | - | - | - |
+| **Oral** | GUN | - | GO | DO | PA | - | - | - | DUN | - | GO | DO | PA | - | - | - |
+
+### [ 5 ] Soli (12/8 - Rites of Passage)
+**Master's Wisdom:** Regally paced triplet feel. Feel the internal "rolling" of the three-note groups.
+
+| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
+| **Sound** | B | - | - | T | - | T | S | - | S | T | - | T |
+| **Oral** | GUN | - | - | DO | - | GO | PA | - | TA | DO | - | GO |
+
+### [ 6 ] Tiriba (6/8 - Binary Triplet Feel)
+**Master's Wisdom:** Master the Tone-Slap transitions. Note the 12-slot mapping for hand alternating.
+
+| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
+| **Sound** | B | - | T | S | - | S | B | - | T | S | - | S |
+| **Oral** | GUN | - | GO | PA | - | TA | DUN | - | DO | TA | - | PA |
+
+---
+
+## 5. INTERMEDIATE PATTERNS
+
+### [ 1 ] Sinte (4/4 - Gatekeeper Syncopation)
+**Master's Note:** The slaps are the "question," the tones are the "answer."
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | S | S | S | - | S | S | S | - | B | - | T | T | B | - | T | T |
+| **Oral** | PA | TA | PA | - | TA | PA | TA | - | GUN | - | GO | DO | DUN | - | GO | DO |
+
+### [ 2 ] Yankadi (12/8 - Seductive Swing)
+**Master's Note:** Drag the notes slightly behind the beat for the deep groove.
+
+| Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | R | **L** | R | L | **R** | L | R | **L** | R | L |
+| **Sound** | B | - | T | S | - | - | B | - | T | S | - | - |
+| **Oral** | GUN | - | GO | PA | - | - | DUN | - | DO | TA | - | - |
+
+---
+
+## 6. REPOSITORY NOTES
+* **Oral Tradition:** Say the syllables (*Gun, Go, Pa*) while playing.
+* **GFM Stability:** Verified blank line buffers for table rendering.
