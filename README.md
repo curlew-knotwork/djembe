@@ -1,11 +1,12 @@
 # Djembe: Notes on playing
-**Version:** 2.9  
+**Version:** 3.0  
 **Standard:** Unified Physical & Oral Notation (UPON)  
+**Persona:** Physically-Grounded Rationalist + Master's Critique
 
 ---
 
 ## 0. STUDENT ROADMAP: THE "CORE SIX"
-**Instructor's Context:** Mastery is achieved through a specific sequence-of-operations. Do not move to a new rhythm until the previous one can be played at a consistent tempo for three minutes without physical tension.
+**Master's Wisdom:** In the tradition, we do not count; we sing. Mastery is not about speed, but about the "conversation" between your hands and the skin. Master these in order:
 
 1.  **The Universal Break [A]:** Your "Start/Stop" command.
 2.  **Kuku:** Foundation for 4/4 timing and "heartbeat" bass notes.
@@ -17,29 +18,30 @@
 ---
 
 ## 1. TECHNICAL SPECIFICATION: SOUND & PHYSICS
-**Instructor's Context:** Every sound is a result of kinetic energy transfer. The drum is a mechanical system where the arm is the pendulum and the hand is the actuator.
+**Master's Wisdom:** The hand is a tool, but the wrist is the hinge. A "dead" hand makes a "dead" drum. Every strike must be an invitation for the drum to speak.
 
 | Type | Code | Phonetic (R/L) | Physical Action |
 | :--- | :---: | :--- | :--- |
-| **Bass** | **B** | GUN / DUN | **Center Strike:** Flat palm, fingers together. Immediate rebound. |
-| **Tone** | **T** | GO / DO | **Edge Strike:** Pads of fingers closed. Palm off the rim. |
-| **Slap** | **S** | PA / TA | **Edge Strike:** Fingers relaxed. Fingertips "whip" the skin. |
+| **Bass** | **B** | GUN / DUN | **Center Strike:** Flat palm. Rebound like touching a hot stove. |
+| **Tone** | **T** | GO / DO | **Edge Strike:** Pads of fingers closed. Sound should be "round." |
+| **Slap** | **S** | PA / TA | **Edge Strike:** Fingers relaxed. The fingertips "whip" for a sharp crack. |
 | **Flam** | **Pla**| **PLA** (Both) | **Double Edge Strike:** Both hands hit together/flammed for volume. |
-| **Rest** | **-** | (Silence) | **Ghost Note:** Hand moves in air to maintain the pendulum. |
+| **Rest** | **-** | (Silence) | **Ghost Note:** Hand moves in air to maintain the internal clock. |
 
 ---
 
 ## 2. SEQUENCE-OF-OPERATIONS
-**Instructor's Context:** In West African percussion, timing is a physical cycle. If you stop your hands during a rest, you break the "engine" of the rhythm.
+**Master's Wisdom:** If you move your whole arm for every note, you will tire. Efficiency is the secret to endurance.
 
 1. **The Pendulum Rule:** Maintain a continuous alternating stroke (R-L-R-L). 
 2. **Lead-Hand Anchor:** In 4/4, the Right Hand (R) anchors downbeats (1, 2, 3, 4) and upbeats (&). 
 3. **Rebound Physics:** Never "press" into the skin. Every strike is an up-stroke.
+4. **The 45-Degree Rule:** Tilt the drum. If the bottom is flat on the floor, the bass is suffocated.
 
 ---
 
 ## 3. THE COMMAND SIGNALS (BREAKS)
-**Instructor's Context:** Breaks are the "API" of the ensemble. They initialize a rhythm, synchronize tempo shifts, or execute a hard stop.
+**Master's Wisdom:** The Break is a "Call." The ensemble gives the "Response." It must be played with authority.
 
 ### [ A ] The Universal Break (Standard Signal)
 **Instructor's Note:** The first measure builds tension with three slaps; the second measure resolves with two bass notes and a final slap.
@@ -55,7 +57,7 @@
 | **Sound** | S | - | S | - | B | - | B | - | S | - | - | - | - | - | - | - |
 
 ### [ B ] The Bridge Signal (Lumen/Bridge Variation)
-**Instructor's Note:** Signals a transition to a "Chauffé" (high energy). The 32nd-note "TAPA" roll requires a smaller range of motion.
+**Instructor's Note:** Signals a transition to high energy. The 32nd-note "TAPA" roll requires a smaller range of motion (reduced hand height).
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -75,7 +77,7 @@
 ## 4. REPERTOIRE: CORE PATTERNS
 
 ### [ 1 ] Kuku (4/4 - Celebratory)
-**Instructor's Note:** Focus on the "syncopated heartbeat." The two bass notes (B B) on beat 3 must feel grounded.
+**Master's Wisdom:** The "B B" on beat 3 is the sound of feet hitting the sand. Make it heavy and grounded.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -83,7 +85,7 @@
 | **Sound** | B | - | S | - | B | - | S | - | B | B | T | T | S | - | S | - |
 
 ### [ 2 ] Djole (4/4 - Mask Dance)
-**Instructor's Note:** This rhythm is about the "space between the notes." It has a relaxed, swinging feel.
+**Master's Wisdom:** This rhythm "leans" backward. Do not rush the tones; let the syncopation breathe.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -91,7 +93,7 @@
 | **Sound** | B | - | B | - | T | T | S | - | B | - | B | - | T | T | S | - |
 
 ### [ 3 ] Kassa (4/4 - Agricultural)
-**Instructor's Note:** The "Gallop." The Tone-Tone-Slap (T T S) sequence mimics the repetitive motion of hoeing.
+**Master's Wisdom:** The "Gallop." The sequence mimics the rhythmic hoeing of the earth. Relentless consistency is required.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -99,7 +101,7 @@
 | **Sound** | T | T | S | - | T | T | S | - | B | - | B | - | T | T | S | - |
 
 ### [ 4 ] Moribayassa (4/4 - Vow Fulfillment)
-**Instructor's Note:** High-speed skipping rhythm. Use minimal arm movement; let the fingers create the circular momentum.
+**Master's Wisdom:** High-speed skipping rhythm. Use minimal arm movement; let the fingers create the circular momentum.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -107,7 +109,7 @@
 | **Sound** | B | - | T | T | S | - | - | - | B | - | T | T | S | - | - | - |
 
 ### [ 5 ] Soli (12/8 - Rites of Passage)
-**Instructor's Note:** Regally paced triplet feel ($4 \times 3$). Feel the "rolling" of the triplets.
+**Master's Wisdom:** Regally paced triplet feel. Do not count; feel the internal "rolling" of the three-note groups.
 
 | Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -115,7 +117,7 @@
 | **Sound** | B | - | - | T | - | T | S | - | S | T | - | T |
 
 ### [ 6 ] Tiriba (6/8 - Binary Triplet Feel)
-**Instructor's Note:** High-energy. Master the Tone-Slap transitions within the triplet grouping. Note the 12-slot mapping for consistent hand alternating.
+**Master's Wisdom:** High energy. Master the Tone-Slap transitions. Note the 12-slot mapping for consistent alternating hands.
 
 | Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -125,10 +127,10 @@
 ---
 
 ## 5. INTERMEDIATE PATTERNS
-**Instructor's Context:** Mastery of intermediate patterns requires navigating "polymetric tension" and interlocking syncopation. These rhythms act as gatekeepers to professional-level ensemble playing.
+**Master's Wisdom:** Intermediate patterns are the "gatekeepers." If you don't feel the silence in the rests, you will trip over the notes.
 
 ### [ 1 ] Sinte (4/4 - Gatekeeper Syncopation)
-**Instructor's Note:** From the Nalu people. This rhythm introduces high-density slap sequences and requires precision in the "PA-TA-PA" response.
+**Master's Note:** The slaps are the "question," the tones are the "answer." Precision in the "PA-TA-PA" response is key.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -136,7 +138,7 @@
 | **Sound** | S | S | S | - | S | S | S | - | B | - | T | T | B | - | T | T |
 
 ### [ 2 ] Yankadi (12/8 - Seductive Swing)
-**Instructor's Note:** A slow Susu rhythm. It teaches "Heavy" timing—placing notes slightly behind the beat to achieve a deep, seductive groove.
+**Master's Note:** Play this like you are walking through honey. Drag the notes slightly behind the beat to achieve the deep groove.
 
 | Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +148,5 @@
 ---
 
 ## 6. REPOSITORY NOTES
-* **Portability:** This document uses GFM tables for multi-device alignment.
-* **Instructional Design:** Syllables (Gun, Go, Pa, Pla) should be vocalized to sync the motor cortex with the physical strike.
-* **Formatting Rule:** Ensure a blank line exists between tables and text to prevent rendering errors.
+* **Oral Tradition:** Say the syllables (*Gun, Go, Pa*) while playing. It bypasses the analytical brain.
+* **GFM Stability:** Verified blank line buffers for table rendering.
