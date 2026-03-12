@@ -80,7 +80,7 @@
 ## 4. REPERTOIRE: CORE PATTERNS
 
 ### [ 1 ] Kuku (4/4 - Celebratory)
-**Master's Wisdom:** The "B B" on beat 3 is the feet hitting the sand. Make it heavy and grounded.
+**Notes:** The "B B" on beat 3 is the feet hitting the sand. Make it heavy and grounded.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -89,7 +89,7 @@
 | **Oral** | GUN | - | PA | - | DUN | - | TA | - | GUN | DUN | GO | DO | PA | - | TA | - |
 
 ### [ 2 ] Djole (4/4 - Mask Dance)
-**Master's Wisdom:** This rhythm "leans" backward. Do not rush the tones; let the syncopation breathe.
+**Notes:** This rhythm "leans" backward. Do not rush the tones; let the syncopation breathe.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -98,7 +98,7 @@
 | **Oral** | GUN | - | DUN | - | GO | DO | PA | - | GUN | - | DUN | - | GO | DO | PA | - |
 
 ### [ 3 ] Kassa (4/4 - Agricultural)
-**Master's Wisdom:** The "Gallop." Relentless consistency is required.
+**Notes:** The "Gallop." Relentless consistency is required.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -107,7 +107,7 @@
 | **Oral** | GO | DO | PA | - | GO | DO | PA | - | GUN | - | DUN | - | GO | DO | PA | - |
 
 ### [ 4 ] Moribayassa (4/4 - Vow Fulfillment)
-**Master's Wisdom:** High-speed skipping rhythm. Let the fingers create the circular momentum.
+**Notes:** High-speed skipping rhythm. Let the fingers create the circular momentum.
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -116,7 +116,7 @@
 | **Oral** | GUN | - | GO | DO | PA | - | - | - | DUN | - | GO | DO | PA | - | - | - |
 
 ### [ 5 ] Soli (12/8 - Rites of Passage)
-**Master's Wisdom:** Regally paced triplet feel. Feel the internal "rolling" of the three-note groups.
+**Notes:** 'Regally' paced triplet feel. Feel the internal "rolling" of the three-note groups.
 
 | Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -125,7 +125,7 @@
 | **Oral** | GUN | - | - | DO | - | GO | PA | - | TA | DO | - | GO |
 
 ### [ 6 ] Tiriba (6/8 - Binary Triplet Feel)
-**Master's Wisdom:** Master the Tone-Slap transitions. Note the 12-slot mapping for hand alternating.
+**Notes:** Master the Tone-Slap transitions. Note the 12-slot mapping for hand alternating.
 
 | Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -138,7 +138,7 @@
 ## 5. INTERMEDIATE PATTERNS
 
 ### [ 1 ] Sinte (4/4 - Gatekeeper Syncopation)
-**Master's Note:** The slaps are the "question," the tones are the "answer."
+**Note:** The slaps are the "question," the tones are the "answer."
 
 | Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -147,7 +147,7 @@
 | **Oral** | PA | TA | PA | - | TA | PA | TA | - | GUN | - | GO | DO | DUN | - | GO | DO |
 
 ### [ 2 ] Yankadi (12/8 - Seductive Swing)
-**Master's Note:** Drag the notes slightly behind the beat for the deep groove.
+**Note:** Drag the notes slightly behind the beat for the deep groove.
 
 | Beat | 1 | . | . | 2 | . | . | 3 | . | . | 4 | . | . |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
