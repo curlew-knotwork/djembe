@@ -6,7 +6,7 @@
 ---
 
 ## 0. STUDENT ROADMAP: THE "CORE SIX"
-**Master's Wisdom:** In the tradition, we do not count; we sing. Mastery is not about speed, but about the "conversation" between your hands and the skin. Master these in order:
+**Notes:** In the tradition, one does not count; one sings. It is not about speed, but about the "conversation" between your hands and the skin. Master these in order:
 
 1.  **The Universal Break [A]:** Your "Start/Stop" command.
 2.  **Kuku:** Foundation for 4/4 timing and "heartbeat" bass notes.
@@ -18,7 +18,7 @@
 ---
 
 ## 1. TECHNICAL SPECIFICATION: SOUND & PHYSICS
-**Master's Wisdom:** The hand is a tool, but the wrist is the hinge. A "dead" hand makes a "dead" drum. Every strike must be an invitation for the drum to speak.
+**Notes:** The hand is a tool, but the wrist is the hinge. A "dead" hand makes a "dead" drum. Every strike must be an invitation for the drum to speak.
 
 | Type | Code | Phonetic (R/L) | Physical Action |
 | :--- | :---: | :--- | :--- |
@@ -31,7 +31,7 @@
 ---
 
 ## 2. SEQUENCE-OF-OPERATIONS
-**Master's Wisdom:** If you move your whole arm for every note, you will tire. Efficiency is the secret to endurance.
+**Notes:** If you move your whole arm for every note, you will tire. Efficiency is the secret to endurance.
 
 1. **The Pendulum Rule:** Maintain a continuous alternating stroke (R-L-R-L). 
 2. **Lead-Hand Anchor:** In 4/4, the Right Hand (R) anchors downbeats (1, 2, 3, 4) and upbeats (&). 
