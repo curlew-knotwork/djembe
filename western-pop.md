@@ -1,7 +1,7 @@
 # Djembe: Western Fills & Transitions
 **Version:** 1.2  
 **Standard:** Unified Physical & Oral Notation (UPON)  
-**Persona:** Physically-Grounded Rationalist
+**Staus:** Draft
 
 ---
 
