@@ -1,12 +1,12 @@
 # Djembe: Western Pop & Backbeat Adaptations
-**Version:** 1.2  
-**Staus:** Draft
-**Standard:** Unified Physical & Oral Notation (UPON) 
+**Version:** 1.1  
+**Standard:** Unified Physical & Oral Notation (UPON)  
+**Persona:** Physically-Grounded Rationalist / Master's Critique
 
 ---
 
 ## 0. THE WESTERN CONTEXT: THE BACKBEAT
-**Note:** When playing with a Western band, you are the "Clock." Traditional djembe dances around the beat; Pop djembe defines the beat. Your primary objective is the **Backbeat** (the hit on 2 and 4).
+**Master's Wisdom:** When playing with a Western band, you are the "Clock." Traditional djembe dances around the beat; Pop djembe defines the beat. Your primary objective is the **Backbeat** (the hit on 2 and 4).
 
 1.  **Lock the Snare:** Your Slap (S) must land exactly with the snare drum or the clap.
 2.  **Simplify:** In Pop, less is more. Do not over-fill the space; leave room for the vocals and the bass guitar.
@@ -35,4 +35,32 @@
 | **Oral** | GUN | - | GO | - | PLA | - | GO | - | GUN | - | GO | - | PLA | - | GO | - |
 
 ### [ 3 ] The "Acoustic Shuffle" (Folk/Singer-Songwriter)
-**Instructor's Note:** Uses
+**Instructor's Note:** Uses "Ghost Tones" (soft tones) to create a rolling, percussive texture. The volume of the 't' notes should be 20% of the Bass and Slap.
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | : : : | : : : | : : : | : : : |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | t | t | t | S | t | t | t | B | t | t | t | S | t | t | t |
+| **Oral** | GUN | do | go | do | PA | do | go | do | GUN | do | go | do | PA | do | go | do |
+
+### [ 4 ] The "Hip-Hop Boom-Bap"
+**Instructor's Note:** Focuses on the "heavy" Kick and sharp Snare. Note the syncopated Bass hit on the "3 &" to provide the requisite "swing."
+
+| Beat | 1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Hand** | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L | **R** | L |
+| **Sound** | B | - | - | - | S | - | - | - | B | - | B | - | S | - | - | - |
+| **Oral** | GUN | - | - | - | PA | - | - | - | GUN | - | DUN | - | TA | - | - | - |
+
+---
+
+## 2. DYNAMICS & ENSEMBLE PLAYING
+1. **The Verse (Soft):** Reduce the kinetic energy. Strike with finger pads only to lower decibels.
+2. **The Chorus (Loud):** Utilize the full hinge of the wrist. Ensure the Slap (S) has a high-frequency "crack" to cut through guitars.
+3. **The Bridge:** Gradually increase hand height (The "Crescendo") to build tension before the final chorus.
+
+---
+
+## 3. REPOSITORY NOTES
+* **Strict Backbeat:** The primary directive is to maintain the pulse on beats 2 and 4.
+* **GFM Stability:** Tables audited for GitHub rendering stability with correct separator syntax and blank lines.
